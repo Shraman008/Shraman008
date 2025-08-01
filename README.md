@@ -12,7 +12,11 @@ Frontend & Backend Developer | MERN Stack Enthusiast <br> <br>
 Email : **karmakarshraman08@gmail.com** 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shraman Karmakar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shera_mon08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shraman Karmakar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ItsmeShraman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karmakarshraman08@gmail.com) 
+<p align="center">
+  <a href="mailto:karmakarshraman08@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/shraman-karmakar-ab78a3302"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Shraman008"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ### 🐍 Dynamic Snake Contribution Graph
 
